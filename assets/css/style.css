@@ -1139,3 +1139,9 @@ section {
   transition: 0.5s;
   border: none;
 }
+@media (min-width:360px) {
+  .services .icon{
+    width: 140px;
+    height: 140px;
+  }
+}
