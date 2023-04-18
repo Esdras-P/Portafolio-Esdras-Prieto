@@ -1102,6 +1102,7 @@ section {
   max-width: 68.75rem;
   margin: auto;
   text-align: center;
+  padding: 0 0;
 }
 
 .skill-header {
