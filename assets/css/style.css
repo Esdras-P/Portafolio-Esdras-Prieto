@@ -599,7 +599,10 @@ section {
   transition: 0.3s;
   width: 50%;
 }
-
+.portfolio-links p{
+  color: #000000;
+  font-weight: bold;
+}
 .portfolio .portfolio-wrap .portfolio-links a:hover {
   background: rgba(20, 157, 221, 0.95);
 }
