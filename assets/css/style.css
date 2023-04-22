@@ -1148,3 +1148,8 @@ section {
     height: 140px;
   }
 }
+.Portfolio-titles{
+  text-align: center;
+  font-family: "Poppins", sans-serif;
+  font-size: 20px;
+}
